@@ -195,6 +195,7 @@ BOOL CWinOGLView::OnEraseBkgnd(CDC* pDC)
 	// TODO: ここにメッセージ ハンドラー コードを追加するか、既定の処理を呼び出します。
 
 	//return CView::OnEraseBkgnd(pDC);
+
 	return true;
 }
 
